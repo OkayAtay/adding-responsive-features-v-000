@@ -55,4 +55,9 @@
   .border{
     border:0px;
   }
+
+  #details div{
+    height: auto;
+    padding-bottom: 20px;
+  }
 }
